@@ -4,4 +4,5 @@
 A space-themed endless-runner game I made in raylib.
 
 To compile the code, open a terminal inside the repository and run "make".
+
 The project was made on linux and might not work on windows.
